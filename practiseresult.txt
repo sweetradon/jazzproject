@@ -1,3 +1,0 @@
-uname
-pwd
-xyz
